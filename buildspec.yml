@@ -25,5 +25,6 @@ artifacts:
     base-directory: build
 secondary-artifacts:
     secondaryArtifact:
-    files: 'additional/**/*'
+    files: 
+       - "additional/**/*"
   base-directory: additional
