@@ -23,8 +23,3 @@ artifacts:
        - "**/*"
     discard-paths: no
     base-directory: build
-secondary-artifacts:
-    secondaryArtifact:
-    files: 
-       - "additional/**/*"
-  base-directory: additional
